@@ -1,1 +1,2 @@
-# kiin_package
+# Kiin의 데이터 분석 패키지
+
